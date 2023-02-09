@@ -2,6 +2,9 @@
 ### Bevezetés
 A Medusa egy nyílt forrású projekt ami egy kicsi, otthon is könnyen összerakható hőszenzort és wifis mikrokontroller használ, hogy elküldje az adatokat, vagy a saját veboldaladra, vagy a mi könnyen használható felületünkre, amit lentebb majd részletesen leírunk. 
 ### Elektronika
+### [Link a nyomtatható vázhoz és NYÁK-hoz](https://www.printables.com/model/394252-case-for-medusa-temperature-sensor/files)
+#### Kapcsolási ábrák
+<img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/wiring.png" width="50%" height="50%" /> <img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/sodering.png" width="30%" height="30%" /> <img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/wiring2.png" width="50%" height="50%" /> 
 
 ### Program feltöltése mikrokontrollelre
 #### Követelmények
