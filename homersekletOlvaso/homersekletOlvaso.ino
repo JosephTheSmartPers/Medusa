@@ -14,8 +14,8 @@ const String apiKey = "WBtaEIIPDMMMtiga40Ca6UkhSvmvCdwN"; // Hogyha az alap vebo
 const char* ssid     = ""; // Your ssid/network name
 const char* jelszo = "";   // Your password
 
-const int halasztas = 30 * 1000 // Idő két mérés elküldése között (a veboldal 30 mp alatt nem engedi)
-                                // Time between two readings (the website doesn't accept if the delay is under 30 seconds)
+const int halasztas = 30 * 1000 // Idő két mérés elküldése között miliszekondumban (a veboldal 30 mp alatt nem engedi)
+                                // Time between two readings in miliseconds (the base website doesn't accept if the delay is under 30 seconds)
 
 OneWire  ds(2);  // a kettes bemeneten egy 4.7 ohmos ellenállás szükséges
                  //on pin 2 (a 4.7K resistor is necessary)
@@ -172,5 +172,5 @@ if (WiFi.status() == WL_CONNECTED) {
 
   
  
-delay(10000);
+delay(halasztas);
 }
