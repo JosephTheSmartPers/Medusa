@@ -16,7 +16,7 @@ A Medusa egy nyílt forrású projekt ami egy kicsi, otthon is könnyen összera
 2. Miután bedugtad a mikrokontrollert, és iró módba álíttotad (bővebben az elektronikánál) megnyomod az upload gombot, és megvárod, míg feltölti a fájlt.
 3. Ha sikeres volt a feltöltés, ki fogja írni a konzol-ban, hogy 100%, utána kihúzod a gépből, átváltod futtató módba, majd bedugod, és megnyitod a 
 Tools>Serial Monitor-t, utána ki fogja írni az IP-címet, azt ajánlott megjegyezni, mivel a mi veboldalunkra ennek segítségével lehet szenzorokat konfigurálni.
-#### Veboldal kezelése
+#### Veboldal kezelése (még nem működik)
 1. A veboldal linkje jelenleg [ez](http://139.162.189.55/sensor/testhome.php), és miután készített egy felhasználót, be leszel jelentkezve adminként (bárki be tud jelentkezni vendégként, ha bekapcsolod a beálításokban) utána csinálnia kell egy emeletet, amit a plusz gomb megnyomásával lehet csinálni, a "create new floor" felirat mellett.
 2. Utána a készített emeletnél a plusz gomb megnyomásával fel fog jönni egy menü, ahol be kell állítani a szenzor nevét, utána az IP-címét, aminek segítségével fogja lekérni az adatbázisból a méréseket, utána az ideális maximum és minimum hőmérsékleteket, illetve, hogy mennyi idő után szóljon, ha túllépte a hőmérsékletet.
 3. Kész vagy! Elvileg meg kell jelennie a méréseknek egy nagyon menő [Charts.js](https://www.chartjs.org/) segítségével készített grafikonon
