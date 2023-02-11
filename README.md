@@ -25,4 +25,4 @@ ezek után csinálnia kell egy emeletet, nyomja meg a floorst aztán írjon be v
 <img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/add%20sensor.png" width="90%" height="90%" /> 
 3.  Ez után rá kell nyomni a felhasználó ikonra, majd az "user panel" gombra, és vissza fog vinni a normális felületre.
 <img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/user.png" width="90%" height="90%" />
-4.  Készen van! Elvileg meg kell jelennie a méréseknek egy nagyon menő [Charts.js](https://www.chartjs.org/) segítségével készített grafikonon, csak dugja be a szenzort, ha mindent megcsinált.
+4.  Készen van! Elvileg meg kell jelennie a méréseknek egy nagyon menő [Charts.js](https://www.chartjs.org) segítségével készített grafikonon, csak dugja be a szenzort, ha mindent megcsinált.
