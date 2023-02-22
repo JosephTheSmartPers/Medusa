@@ -17,7 +17,7 @@ A Medusa egy nyílt forrású projekt ami egy kicsi, otthon is könnyen összera
 3. Ha sikeres volt a feltöltés, ki fogja írni a konzol-ban, hogy 100%, utána kihúzza a gépből, átváltod futtató módba, majd bedugja, és megnyitja a 
 Tools>Serial Monitor-t, utána ki fogja írni az IP-címet, és azt ajánlott elmenteni, mivel a mi veboldalunkon ennek segítségével lehet szenzorokat konfigurálni.
 #### Veboldal kezelése
-1. A veboldal linkje jelenleg [ez](http://139.162.189.55/sensor/home.php), és miután regisztrált, be lesz jelentkezve adminként, utána nyomja meg a kis nyilat a bal alsó sarokban, majd válassza ki az "Admin Panelt". 
+1. A veboldal linkje jelenleg [ez](http://139.162.189.55/sensor/home.php), és miután regisztrált, be lesz jelentkezve adminként.
 <img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/admin%20panel.png" width="25%" height="25%" />
 ezek után csinálnia kell egy emeletet, nyomja meg a floorst aztán írjon be valamit a "floor name" helyére ezután nymoja meg az "add floor" gombot, és elvileg néhány másodperc után meg fog jelenni az új emelet. 
 <img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/add%20floor.png" width="90%" height="90%" />
