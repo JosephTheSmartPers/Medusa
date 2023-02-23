@@ -18,10 +18,10 @@ A Medusa egy nyílt forrású projekt ami egy kicsi, otthon is könnyen összera
 Tools>Serial Monitor-t, utána ki fogja írni az IP-címet, és azt ajánlott elmenteni, mivel a mi veboldalunkon ennek segítségével lehet szenzorokat konfigurálni.
 #### Veboldal kezelése
 1. A veboldal linkje jelenleg [ez](http://139.162.189.55/sensor/home.php), és miután regisztrált, be lesz jelentkezve adminként.
-<img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/peldasignup.png" width="25%" height="25%" />
-ezek után csinálnia kell egy emeletet, nyomja meg az "Szenzorok" mellet lévő + gombot aztán írjon be valamit a "emelet név" helyére ezután nymoja meg az "létrehozás" gombot, és meg fog jelenni az új emelet. 
-<img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/peldaaddfloor.png" width="30%" height="30%" />
-2.  Utána a készített emelet melett lévő + gomb megnyomásával fel fog hozni egy ablakot ahol be kell állítani a szenzor nevét, utána az IP-címét, aminek segítségével fogja lekérni az adatbázisból a méréseket. 
+<img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/peldasignup.png" width="20%" height="20%" />
+ezek után csinálnia kell egy emeletet, nyomja meg az "Szenzorok" mellet lévő + gombot aztán írjon be valamit a "emelet név" helyére ezután nymoja meg az "létrehozás" gombot, és meg fog jelenni az új emelet.   
+<img          src="https://github.com/JosephTheSmartPers/Medusa/blob/main/peldaaddfloor.png" width="30%" height="30%" />
+2. Utána a készített emelet melett lévő + gomb megnyomásával fel fog hozni egy ablakot ahol be kell állítani a szenzor nevét, utána az IP-címét, aminek segítségével fogja lekérni az adatbázisból a méréseket. 
 <img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/addsensor.png" width="30%" height="30%" /> 
-4.  Készen van! Elvileg meg kell jelennie a méréseknek egy nagyon menő Charts.js segítségével készített grafikonon, csak dugja be a szenzort, ha mindent megcsinált.
-<img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/%C3%BAjemelet.png" width="30%" height="30%" />
+4.  észen van! Elvileg meg kell jelennie a méréseknek egy nagyon menő Charts.js segítségével készített grafikonon, csak dugja be a szenzort, ha mindent megcsinált.
+<img src="https://github.com/JosephTheSmartPers/Medusa/blob/main/ujemelet.png" width="30%" height="30%" />
